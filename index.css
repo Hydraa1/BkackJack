@@ -1,0 +1,31 @@
+div{
+    margin-top: 100px;
+    margin-left: 450px;
+    background-color: #016f32;
+    width: 400px;
+    text-align: center;
+    height: 430px;
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+    border-radius: 2px;
+    box-shadow: 2px 2px 10px #016f32;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#head{
+    color: goldenrod;
+    font-size: 45px !important;
+    padding-top: 30px;
+}
+#play{
+    font-style: italic;
+}
+#start,#new{
+    background-color: goldenrod;
+    width: 200px;
+    font-size: 22px;
+    font-weight: bolder;
+    color: #016f32;
+    margin-top: 10px;
+    border: 2px solid goldenrod;
+}
